@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+profile.json
+settings.json
+*.log
+backups/
+.env
+*.pem
+*.key
+*.p12
+*.pfx
